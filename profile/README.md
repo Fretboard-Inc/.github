@@ -23,7 +23,7 @@ Active development. Pre-launch.
 
 ## Contact
 
-[arnavkatgeri](https://github.com/arnavkatgeri)
+[arnavkatgeri](https://github.com/arnavk09)
 
 ---
 
